@@ -64,6 +64,6 @@ As you scroll:
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Made with focus and patience by Rudransh Chunn
