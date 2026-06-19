@@ -1,25 +1,25 @@
-# 🚀 Parallax-Rudransh
+#  Parallax-Rudransh
 
 A cinematic scroll-based storytelling website built using **HTML & CSS**, showcasing a personal developer journey through immersive full-screen sections, smooth transitions, and visual storytelling.
 
 
-## 🌐 Live Demo
+##  Live Demo
 https://parallax-scroll-rudransh.netlify.app/
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎬 Full-screen cinematic scroll story layout  
-- 🌄 Fixed background parallax-style sections  
-- ⚡ Smooth scrolling experience  
-- ✍️ Animated text reveal using CSS keyframes  
-- 📱 Fully responsive design (mobile + desktop)  
-- 🎭 Story-based progression (idea → coding → projects → growth)
+-  Full-screen cinematic scroll story layout  
+-  Fixed background parallax-style sections  
+-  Smooth scrolling experience  
+-  Animated text reveal using CSS keyframes  
+-  Fully responsive design (mobile + desktop)  
+-  Story-based progression (idea → coding → projects → growth)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5  
 - CSS3 (advanced animations + view timeline effects)  
@@ -27,7 +27,7 @@ https://parallax-scroll-rudransh.netlify.app/
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Parralax Website
 │
 ├── index.html
@@ -52,7 +52,7 @@ Parralax Website
 
 ---
 
-## 🎨 How It Works
+##  How It Works
 
 Each section represents a phase of a developer’s journey.  
 As you scroll:
@@ -64,6 +64,6 @@ As you scroll:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Made with focus and patience by Rudransh Chunn
